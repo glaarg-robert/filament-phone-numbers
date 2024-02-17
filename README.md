@@ -30,7 +30,7 @@ compatible version.
 You can install the package via composer:
 
 ```bash
-composer require glaarg-robert/filament-phone-numbers
+composer require cheesegrits/filament-phone-numbers
 ```
 
 You can publish the config file with:
